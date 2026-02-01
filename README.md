@@ -26,7 +26,7 @@ Operaciones matemáticas básicas
 Clonar el repositorio:  
 Copiar código  
 Bash  
-git clone https://github.com/tu-usuario/nombre-del-repo.git  
+git clone https://github.com/matias-taborda/Mi_presupuesto_vivo
 Abrir el archivo .ipynb en Jupyter Notebook  
 Ejecutar las celdas en orden  
 Ingresar los valores solicitados por consola
