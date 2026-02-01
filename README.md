@@ -1,7 +1,7 @@
 # 💰 Control de Finanzas Personales en Python
 ## 📌 Descripción
-Proyecto desarrollado en Python utilizando Jupyter Notebook, orientado al control y análisis de finanzas personales.
-Permite registrar ingresos, gastos y aplicar reglas de ahorro automáticas para facilitar la toma de decisiones financieras.
+Proyecto desarrollado en Python utilizando Jupyter Notebook, orientado al control y análisis de finanzas personales.  
+Permite registrar ingresos, gastos y aplicar reglas de ahorro automáticas para facilitar la toma de decisiones financieras.  
 El objetivo principal es ofrecer una herramienta simple, clara y reutilizable, pensada para el uso personal o como base para futuros desarrollos financieros.
 ## 🎯 Objetivos del proyecto
 Registrar ingresos mensuales  
